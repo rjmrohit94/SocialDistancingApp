@@ -1,0 +1,7 @@
+<resources>
+    <string name="camera_button">Start Camera</string>
+    <string name="video_button">Analyze Video</string>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">VoSoDi</string>
+    <string name="acra_toast" translation_desciption="Crash Report Toast message">VoSiDi crashed. Need to send report to the developers to improve your experience</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+</resources>
