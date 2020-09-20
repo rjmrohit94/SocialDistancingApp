@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TensorFlow Lite Object Detection Android Demo
 ### Overview
 This is a camera app that continuously detects the objects (bounding boxes and classes) in the frames seen by your device's back camera, using a quantized [MobileNet SSD](https://github.com/tensorflow/models/tree/master/research/object_detection) model trained on the [COCO dataset](http://cocodataset.org/). These instructions walk you through building and running the demo on an Android device.
@@ -84,3 +85,6 @@ bazel run //tensorflow/lite/tools:visualize \
 
 ### Additional Note
 _Please do not delete the assets folder content_. If you explicitly deleted the files, then please choose *Build*->*Rebuild* from menu to re-download the deleted model files into assets folder.
+=======
+# SocialDistancingApp
+>>>>>>> d741709504732f646705e80b21d942bb18a06c1d
